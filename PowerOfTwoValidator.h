@@ -1,4 +1,9 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+/**
+@file       PowerOfTwoValidator.h
+@brief      Power of Two Validator UE4 C++ header file.
+@author     Ihimu Ukpo
+*/
+
 
 #pragma once
 
